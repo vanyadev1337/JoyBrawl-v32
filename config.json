@@ -1,0 +1,20 @@
+{
+  "MongoConnectionURL": "",
+  "StarPoints": 99999,
+  "Tickets": 9999,
+  "Gold": 99999,
+  "Gems": 99999,
+  "Trophies": 99999,
+  "ExperiencePoints": 1262470,
+  "BrawlBoxTokens": 99999,
+  "BigBoxTokens": 99999,
+  "Region": "RU",
+  "ThemeID": 20,
+  "ContentCreatorCodes": ["sprkdv", "vanyadev"],
+  "BannedIPs": [],
+  "Maintenance": false,
+  "SecondsTillMaintenanceOver": 3600,
+  "Patch": false,
+  "PatchURL": "http://192.168.0.103:8080/",
+  "UpdateURL": ""
+}
