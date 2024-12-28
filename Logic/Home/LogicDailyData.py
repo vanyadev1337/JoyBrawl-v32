@@ -90,10 +90,10 @@ class LogicDailyData:
             self.writeInt(0)
             self.writeInt(0)
 
-        self.writeVInt(2)  # CooldownEntry
-        for x in [42, 43]:
+        self.writeVInt(0)  # CooldownEntry
+        for x in range(0):
             self.writeVInt(0)
-            self.writeDataReference(16, x)
+            self.writeDataReference(0, 0)
             self.writeVInt(0)
 
         self.writeVInt(1) # BrawlPassSeasonData
